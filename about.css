@@ -1,0 +1,22 @@
+body{
+    font-style: normal;
+    background-color:mintcream;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+.Info{
+    background-color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    ;
+    border: 4px ridge;
+    border-color: black;
+    flex-basis: 50%;
+    margin: 2em;
+    color: lightskyblue;
+    width: auto;
+    height: auto;
+
+}  
+
